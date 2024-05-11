@@ -1,0 +1,10 @@
+C:\Users\hubert\Documents\BTD6 Mod Sources\testmod1\bin\Debug\net6.0\testmod1.deps.json
+C:\Users\hubert\Documents\BTD6 Mod Sources\testmod1\bin\Debug\net6.0\testmod1.dll
+C:\Users\hubert\Documents\BTD6 Mod Sources\testmod1\obj\Debug\net6.0\testmod1.csproj.AssemblyReference.cache
+C:\Users\hubert\Documents\BTD6 Mod Sources\testmod1\obj\Debug\net6.0\testmod1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hubert\Documents\BTD6 Mod Sources\testmod1\obj\Debug\net6.0\testmod1.AssemblyInfoInputs.cache
+C:\Users\hubert\Documents\BTD6 Mod Sources\testmod1\obj\Debug\net6.0\testmod1.AssemblyInfo.cs
+C:\Users\hubert\Documents\BTD6 Mod Sources\testmod1\obj\Debug\net6.0\testmod1.csproj.CoreCompileInputs.cache
+C:\Users\hubert\Documents\BTD6 Mod Sources\testmod1\obj\Debug\net6.0\testmod1.dll
+C:\Users\hubert\Documents\BTD6 Mod Sources\testmod1\obj\Debug\net6.0\refint\testmod1.dll
+C:\Users\hubert\Documents\BTD6 Mod Sources\testmod1\obj\Debug\net6.0\ref\testmod1.dll
