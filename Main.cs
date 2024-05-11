@@ -256,8 +256,6 @@ namespace boxermonkey
         }
         public class u300 : ModUpgrade<exampul1>
         {
-            // public override string Portrait => "Don't need to override this, using the default of Pair-Portrait.png";
-            // public override string Icon => "Don't need to override this, using the default of Pair-Icon.png";
 
             public override int Path => TOP;
             public override int Tier => 3;
