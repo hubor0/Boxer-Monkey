@@ -138,8 +138,6 @@ namespace boxermonkey
         }
         public class u100 : ModUpgrade<exampul1>
         {
-            // public override string Portrait => "Don't need to override this, using the default of Pair-Portrait.png";
-            // public override string Icon => "Don't need to override this, using the default of Pair-Icon.png";
 
             public override int Path => TOP;
             public override int Tier => 1;
@@ -239,8 +237,6 @@ namespace boxermonkey
         }
         public class u200 : ModUpgrade<exampul1>
         {
-            // public override string Portrait => "Don't need to override this, using the default of Pair-Portrait.png";
-            // public override string Icon => "Don't need to override this, using the default of Pair-Icon.png";
 
             public override int Path => TOP;
             public override int Tier => 2;
@@ -284,8 +280,6 @@ namespace boxermonkey
         }
         public class u400 : ModUpgrade<exampul1>
         {
-            // public override string Portrait => "Don't need to override this, using the default of Pair-Portrait.png";
-            // public override string Icon => "Don't need to override this, using the default of Pair-Icon.png";
 
             public override int Path => TOP;
             public override int Tier => 4;
