@@ -10,4 +10,5 @@ public static class ModHelperData
 
     public const string RepoOwner = "hubor"; // TODO add your github username hero, also in the download url in README.md
     public const string RepoName = "boxer"; // TODO add your repo name here, also in the download url in README.md
+    public const string Author = "hubor";
 }
