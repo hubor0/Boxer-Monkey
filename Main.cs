@@ -478,8 +478,10 @@ namespace boxermonkey
                 tower.ApplyDisplay<looks005>();
                 var attackModel = tower.GetAttackModel();
                 attackModel.weapons[0].projectile.ApplyDisplay<Projectile4>();
+                attackModel.weapons[0].projectile.AddBehavior(Game.instance.model.GetTowerFromId("BombShooter-400").GetWeapon().projectile.GetBehavior<CreateProjectileOnContactModel>().Duplicate());
                 var slammer = attackModel.weapons[0].Duplicate();
                 slammer.rate = 4.7f;
+                slammer.projectile.AddBehavior(Game.instance.model.GetTowerFromId("BombShooter-300").GetWeapon().projectile.GetBehavior<CreateEffectOnContactModel>().Duplicate());
                 slammer.projectile.AddBehavior(Game.instance.model.GetTowerFromId("BombShooter-500").GetWeapon().projectile.GetBehavior<CreateProjectileOnContactModel>().Duplicate());
                 slammer.projectile.AddBehavior(Game.instance.model.GetTowerFromId("BombShooter-500").GetWeapon().projectile.GetBehavior<CreateSoundOnProjectileCollisionModel>().Duplicate());
                 attackModel.weapons[0].projectile.AddBehavior(Game.instance.model.GetTowerFromId("BombShooter").GetWeapon().projectile.GetBehavior<CreateEffectOnContactModel>().Duplicate());
