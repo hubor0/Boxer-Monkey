@@ -731,7 +731,7 @@ namespace boxermonkey
 
             public override void ModifyDisplayNode(UnityDisplayNode node)
             {
-                node.transform.GetChild(0).transform.localScale *= 96;
+                node.transform.GetChild(0).transform.localScale *= 105;
                 foreach (var meshRenderer in node.GetMeshRenderers())
                 {
                     meshRenderer.ApplyOutlineShader();
